@@ -1,12 +1,1 @@
-{
-    "users": [
-        {
-            "username": "user1",
-            "libraryId": "01"
-        },
-        {
-            "username": "user2",
-            "libraryId": "02"  
-        }
-    ]
-}
+[[{"username":"user8","ID":"a14c955bda572b817deccc3a2135cc5f2518c1d3"}],{"username":"User3","ID":"325ef576f8066a46818c91ef3bbd0db7b2c40b66"},[{"username":"newuser2","ID":"9bd054924e5cbbfd8a3db8fbefafcffbcf04d0ea"}],{"username":"user2","libraryId":"02"},{"username":"user6","ID":"312a46dc52117efa4e3096eda510370f01c83b27"},{"username":"newuser5","ID":"58bcadfaec70fe377061cc70de728063919b5416"},{"username":"user7","ID":"7bdeecc97cf8f9b9188ba2751aa1755dad9ff819"},{"username":"user1","libraryId":"01"},{"username":"user5","ID":"7d112681b8dd80723871a87ff506286613fa9cf6"},[{"username":"newuser","ID":"cd1bfe55cbb2b0b989cac86391e5100c933ffe7e"}]]
